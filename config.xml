@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="fr.oloronbonsplans.app" version="1.0.0" xmlns="http://oloronbonsplans.fr" xmlns:gap="http://oloronbonsplans.fr">
-    <name>Oloron Bons Plans</name>
+<widget id="fr.jeuxdecouple.app" version="1.0.0" xmlns="http://jeuxdecouple.blueconfig.com" xmlns:gap="http://jeuxdecouple.blueconfig.com">
+    <name>Jeux de Couple</name>
     <description>
         Découvrez tous les bons plans sur le Piemont Oloronais
     </description>
-    <author email="oloronbonsplans@gmail.com" href="http://oloronbonsplans.fr">
+    <author email="marcolasrate@gmail.com" href="jeuxdecouple.blueconfig.com">
         OBP Team
     </author>
-   <content src="http://oloronbonsplans.fr" />
+   <content src="jeuxdecouple.blueconfig.com" />
 	
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
