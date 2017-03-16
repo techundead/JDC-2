@@ -7,7 +7,7 @@
     <author email="marcolasrate@gmail.com" href="jeuxdecouple.blueconfig.com">
         OBP Team
     </author>
-   <content src="jeuxdecouple.blueconfig.com" />
+   <content src="http://jeuxdecouple.blueconfig.com" />
 	
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
